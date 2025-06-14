@@ -1,2 +1,2 @@
-# Scrimba-BasicJS
-It is related to all coding practice projects of SCRIMBA as beginner.
+# MyJSProject
+It is related to all coding practice projects as beginner.
